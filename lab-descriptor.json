@@ -1,0 +1,84 @@
+{
+    "broadArea": {
+        "name": "Civil Engineering",
+        "link": "http://vlab.co.in/broad-area-civil-engineering"
+    },
+    "lab": "Transportation Engineering",
+    "phase": "3",
+    "deployLab":true,
+    "collegeName": "NITS",
+    "baseUrl": "http://ts-nitk.vlabs.ac.in",
+    "introduction": "Welcome to the Transportation Engineering Lab",
+    "experiments": [
+            {
+                "name": "Crushing Value of Aggregate",
+		"short-name": "crushing-value",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/crushing-value-of-aggregate-nitk.git",
+	        "tag": "v1.0.0",
+         	"deploy": true 
+            }, {
+                "name": "Impact Test on Aggregate",
+		"short-name": "impact-test",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/impact-test-on-aggregate-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, {
+                "name": "Los Angeles Abrasion Test on Aggregate",
+		"short-name": "los-angeles-abrasion",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/los-angeles-abrasion-test-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, {
+                "name": "Ductility Test on Bitumen",
+		"short-name": "ductility-test",	
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/ductility-test-on-bitumen-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, {
+                "name": "Softening Point Test on Bitumen",
+		"short-name": "softening-point-test",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/softening-point-test-on-bitumen-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, {
+                "name": "Penetration Test on Bitumen",
+		"short-name": "penetration-test",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/penetration-test-on-bitumen-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, { 
+                "name": "Specific Gravity Test on Bitumen",
+		"short-name": "specific-gravity-test",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/specific-gravity-test-on-bitumen-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+            }, {
+                "name": "California Bearing Ratio Test on Soil",
+		"short-name": "california-bearing-ratio-test",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/california-bearing-ratio-test-on-soil-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+        }
+
+    ], 
+"targetAudience": {
+        "UG": [
+            "B. Tech./ B.E in Civil Engineering"
+        ],
+        "PG": [
+            "MS/Ph. D. Beginners in Civil Engineering and related topics"
+        ]
+    },
+    "objective": "The main objective of this lab is to provide the basic knowledge on topographic profiling, identification of geological features, analysis and identification of minerals, rocks which is abundantly available in India such as Coal, Lignite, Metallic and Non-Metallic minerals.",
+    "courseAlignment": {
+        "description": "The syllabi of this lab aligns to the following universities in India.",
+        "universities": [
+            "P. Chakorborty and A. Das. Principles of transportation engineering. PHI learning (formely prentice hall of India) 2003",
+            "Khanna and Justo, “Highway Engineering”, Nem Chand & Bros, Roorkee, 1991",
+            "Yoder and Witczak, “Principles of Pavement Design”- John Wiley and sons Inc(second edition) 1975.",
+            "David Croney, Paul Croney, “Design & Performance of Road Pavements”- Mc Graw hill Book Co.",
+            "C Venkatramaiah, “ Transportation Engineering”, Vol ume II: Railways, Airports, Docks and Harbours, Bridges and Tunnels, Universities Press.",
+            "IS 73, revised 2006, IS 2720, IS 2386, IS 1201 to 1220, IS 8887- 1995, IS 217- 1986, “Indian Roads Congress”."
+        ]
+    }
+}

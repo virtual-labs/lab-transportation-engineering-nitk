@@ -5,7 +5,7 @@
     },
     "lab": "Transportation Engineering",
     "phase": "3",
-    "deployLab":true,
+    "deployLab":false,
     "collegeName": "NITS",
     "baseUrl": "http://ts-nitk.vlabs.ac.in",
     "introduction": "Welcome to the Transportation Engineering Lab",

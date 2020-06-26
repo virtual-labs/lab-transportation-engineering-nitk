@@ -63,22 +63,21 @@
     ], 
 "targetAudience": {
         "UG": [
-            "B. Tech./ B.E in Civil Engineering"
+            "B.E/B.Tech in Civil Engineering"
         ],
         "PG": [
-            "MS/Ph. D. Beginners in Civil Engineering and related topics"
+            "M.Tech/MS in Transportation Engineering and Highway Engineering",
+	    "Diploma in Civil Engineering"
         ]
     },
-    "objective": "The main objective of this lab is to provide the basic knowledge on topographic profiling, identification of geological features, analysis and identification of minerals, rocks which is abundantly available in India such as Coal, Lignite, Metallic and Non-Metallic minerals.",
+    "objective": "The main objective of this lab is to conduct all standardized tests to assess the quality of highway materials and pavements.",
     "courseAlignment": {
-        "description": "The syllabi of this lab aligns to the following universities in India.",
+        "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab :",
         "universities": [
-            "P. Chakorborty and A. Das. Principles of transportation engineering. PHI learning (formely prentice hall of India) 2003",
-            "Khanna and Justo, “Highway Engineering”, Nem Chand & Bros, Roorkee, 1991",
-            "Yoder and Witczak, “Principles of Pavement Design”- John Wiley and sons Inc(second edition) 1975.",
-            "David Croney, Paul Croney, “Design & Performance of Road Pavements”- Mc Graw hill Book Co.",
-            "C Venkatramaiah, “ Transportation Engineering”, Vol ume II: Railways, Airports, Docks and Harbours, Bridges and Tunnels, Universities Press.",
-            "IS 73, revised 2006, IS 2720, IS 2386, IS 1201 to 1220, IS 8887- 1995, IS 217- 1986, “Indian Roads Congress”."
+            "Transportation Engineering I, II- APJ Abdul Kalam Technological University, Goa University",
+            "Transportation Engineering Laboratory- APJ Abdul Kalam Technological University, Goa University",
+            "Highway and Traffic Engineering- National Institute of Technology Karnataka Surathkal, Anna University",
+            "Highway material Testing Laboratory- National Institute of Technology Karnataka Surathkal, Anna University"
         ]
     }
 }

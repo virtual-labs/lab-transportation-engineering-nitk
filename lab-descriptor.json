@@ -1,83 +1,88 @@
 {
-    "broadArea": {
-        "name": "Civil Engineering",
-        "link": "http://vlab.co.in/broad-area-civil-engineering"
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "http://vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Transportation Engineering",
+  "phase": 3,
+  "deployLab": true,
+  "collegeName": "NITS",
+  "baseUrl": "ts-nitk.vlabs.ac.in",
+  "introduction": "Welcome to the Transportation Engineering Lab",
+  "experiments": [
+    {
+      "name": "Crushing Value of Aggregate",
+      "short-name": "crushing-value",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/crushing-value-of-aggregate-nitk.git",
+      "tag": "v1.0.3",
+      "deploy": true
     },
-    "lab": "Transportation Engineering",
-    "phase": "3",
-    "deployLab":true,
-    "collegeName": "NITS",
-    "baseUrl": "http://ts-nitk.vlabs.ac.in",
-    "introduction": "Welcome to the Transportation Engineering Lab",
-    "experiments": [
-            {
-                "name": "Crushing Value of Aggregate",
-		"short-name": "crushing-value",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/crushing-value-of-aggregate-nitk.git",
-	        "tag": "v1.0.2",
-         	"deploy": true 
-            }, {
-                "name": "Impact Test on Aggregate",
-		"short-name": "impact-test",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/impact-test-on-aggregate-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-            }, {
-                "name": "Los Angeles Abrasion Test on Aggregate",
-		"short-name": "los-angeles-abrasion",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/los-angeles-abrasion-test-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-            }, {
-                "name": "Ductility Test on Bitumen",
-		"short-name": "ductility-test",	
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/ductility-test-on-bitumen-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-            }, {
-                "name": "Softening Point Test on Bitumen",
-		"short-name": "softening-point-test",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/softening-point-test-on-bitumen-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-            }, {
-                "name": "Penetration Test on Bitumen",
-		"short-name": "penetration-test",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/penetration-test-on-bitumen-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-            }, { 
-                "name": "Specific Gravity Test on Bitumen",
-		"short-name": "specific-gravity-test",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/specific-gravity-test-on-bitumen-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-            }, {
-                "name": "California Bearing Ratio Test on Soil",
-		"short-name": "california-bearing-ratio-test",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/california-bearing-ratio-test-on-soil-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-        }
-
-    ], 
-"targetAudience": {
-        "UG": [
-            "B.E/B.Tech in Civil Engineering"
-        ],
-        "PG": [
-            "M.Tech/MS in Transportation Engineering and Highway Engineering",
-	    "Diploma in Civil Engineering"
-        ]
+    {
+      "name": "Impact Test on Aggregate",
+      "short-name": "impact-test",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/impact-test-on-aggregate-nitk.git",
+      "tag": "v1.0.3",
+      "deploy": true
     },
-    "objective": "The main objective of this lab is to conduct all standardized tests to assess the quality of highway materials and pavements.",
-    "courseAlignment": {
-        "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab :",
-        "universities": [
-            "Transportation Engineering I, II- APJ Abdul Kalam Technological University, Goa University",
-            "Transportation Engineering Laboratory- APJ Abdul Kalam Technological University, Goa University",
-            "Highway and Traffic Engineering- National Institute of Technology Karnataka Surathkal, Anna University",
-            "Highway material Testing Laboratory- National Institute of Technology Karnataka Surathkal, Anna University"
-        ]
+    {
+      "name": "Los Angeles Abrasion Test on Aggregate",
+      "short-name": "los-angeles-abrasion",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/los-angeles-abrasion-test-nitk.git",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Ductility Test on Bitumen",
+      "short-name": "ductility-test",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/ductility-test-on-bitumen-nitk.git",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Softening Point Test on Bitumen",
+      "short-name": "softening-point-test",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/softening-point-test-on-bitumen-nitk.git",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Penetration Test on Bitumen",
+      "short-name": "penetration-test",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/penetration-test-on-bitumen-nitk.git",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Specific Gravity Test on Bitumen",
+      "short-name": "specific-gravity-test",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/specific-gravity-test-on-bitumen-nitk.git",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "California Bearing Ratio Test on Soil",
+      "short-name": "california-bearing-ratio-test",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/transportation-engineering-nitk/california-bearing-ratio-test-on-soil-nitk.git",
+      "tag": "v1.0.3",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": ["B.E/B.Tech in Civil Engineering"],
+    "PG": [
+      "M.Tech/MS in Transportation Engineering and Highway Engineering",
+      "Diploma in Civil Engineering"
+    ]
+  },
+  "objective": "The main objective of this lab is to conduct all standardized tests to assess the quality of highway materials and pavements.",
+  "courseAlignment": {
+    "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab :",
+    "universities": [
+      "Transportation Engineering I, II- APJ Abdul Kalam Technological University, Goa University",
+      "Transportation Engineering Laboratory- APJ Abdul Kalam Technological University, Goa University",
+      "Highway and Traffic Engineering- National Institute of Technology Karnataka Surathkal, Anna University",
+      "Highway material Testing Laboratory- National Institute of Technology Karnataka Surathkal, Anna University"
+    ]
+  },
+  "version": "v1.0.3"
 }

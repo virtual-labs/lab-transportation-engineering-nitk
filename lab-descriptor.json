@@ -14,56 +14,56 @@
       "name": "Crushing Value of Aggregate",
       "short-name": "crushing-value",
       "repo": "https://github.com/virtual-labs/exp-crushing-value-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Impact Test on Aggregate",
       "short-name": "impact-test",
       "repo": "https://github.com/virtual-labs/exp-impact-test-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Los Angeles Abrasion Test on Aggregate",
       "short-name": "los-angeles-abrasion",
       "repo": "https://github.com/virtual-labs/exp-los-angeles-abrasion-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Ductility Test on Bitumen",
       "short-name": "ductility-test",
       "repo": "https://github.com/virtual-labs/exp-ductility-test-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Softening Point Test on Bitumen",
       "short-name": "softening-point-test",
       "repo": "https://github.com/virtual-labs/exp-softening-point-test-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Penetration Test on Bitumen",
       "short-name": "penetration-test",
       "repo": "https://github.com/virtual-labs/exp-penetration-test-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Specific Gravity Test on Bitumen",
       "short-name": "specific-gravity-test",
       "repo": "https://github.com/virtual-labs/exp-specific-gravity-test-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "California Bearing Ratio Test on Soil",
       "short-name": "california-bearing-ratio-test",
       "repo": "https://github.com/virtual-labs/exp-california-bearing-ratio-test-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],

@@ -63,7 +63,7 @@
       "name": "California Bearing Ratio Test on Soil",
       "short-name": "california-bearing-ratio-test",
       "repo": "https://github.com/virtual-labs/exp-california-bearing-ratio-test-nitk",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     }
   ],

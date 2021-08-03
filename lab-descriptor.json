@@ -68,13 +68,8 @@
     }
   ],
   "targetAudience": {
-    "UG": [
-	    "B.E/B.Tech in Civil Engineering",
-	    "Diploma in Civil Engineering" 	
-    ],
-    "PG": [
-      "M.Tech/MS in Transportation Engineering and Highway Engineering"
-    ]
+    "UG": ["B.E/B.Tech in Civil Engineering", "Diploma in Civil Engineering"],
+    "PG": ["M.Tech/MS in Transportation Engineering and Highway Engineering"]
   },
   "objective": "The main objective of this lab is to conduct all standardized tests to assess the quality of highway materials and pavements.",
   "courseAlignment": {
@@ -86,7 +81,7 @@
       "Highway material Testing Laboratory- National Institute of Technology Karnataka Surathkal, Anna University"
     ]
   },
-  "version": "v1.2.0",
+  "version": "v1.3.0",
   "exp_name": "California Bearing Ratio Test on Soil",
   "exp_short_name": "california-bearing-ratio-test"
 }

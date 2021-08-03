@@ -69,7 +69,7 @@
   ],
   "targetAudience": {
 	  "UG": [ "B.E/B.Tech in Civil Engineering", "Diploma in Civil Engineering", "M.Tech/MS in Transportation Engineering and Highway Engineering"],
-    "PG": ""
+    "PG": [""]
   },
   "objective": "The main objective of this lab is to conduct all standardized tests to assess the quality of highway materials and pavements.",
   "courseAlignment": {

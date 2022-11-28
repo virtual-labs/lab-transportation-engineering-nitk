@@ -7,7 +7,7 @@
   "lab_display_name": "Transportation Engineering",
   "phase": 3,
   "deployLab": true,
-  "collegeName": "NITS",
+  "collegeName": "NITK",
   "baseUrl": "ts-nitk.vlabs.ac.in",
   "introduction": "Welcome to the Transportation Engineering Lab",
   "experiments": [
@@ -82,7 +82,7 @@
       "Highway material Testing Laboratory- National Institute of Technology Karnataka Surathkal, Anna University"
     ]
   },
-  "version": "v1.14.0",
+  "version": "v1.15.0",
   "exp_name": "California Bearing Ratio Test on Soil",
   "exp_short_name": "california-bearing-ratio-test"
 }
